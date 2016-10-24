@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry including="**/*.java" kind="src" path="src/main/java"/>
+	<classpathentry excluding="**/*.java" kind="src" path="src/main/resources"/>
+	<classpathentry kind="var" path="M2_REPO/asm/asm/3.1/asm-3.1.jar"/>
+	<classpathentry kind="var" path="M2_REPO/junit/junit/4.8.2/junit-4.8.2.jar" sourcepath="M2_REPO/junit/junit/4.8.2/junit-4.8.2-sources.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry exported="true" kind="lib" path="/Users/shrinkhla/Desktop/jersey-bundle-1.17.1.jar"/>
+	<classpathentry kind="lib" path="src/main/webapp/WEB-INF/lib/asm-3.1.jar"/>
+	<classpathentry kind="lib" path="src/main/webapp/WEB-INF/lib/jersey-bundle-1.17.1.jar"/>
+	<classpathentry kind="lib" path="/Users/shrinkhla/Desktop/springdata_jars/commons-dbcp-1.2.2.jar"/>
+	<classpathentry kind="lib" path="/Users/shrinkhla/Desktop/springdata_jars/hibernate-entitymanager-4.2.7.SP1.jar"/>
+	<classpathentry kind="lib" path="/Users/shrinkhla/Desktop/springdata_jars/mysql-connector-java-5.1.4.jar"/>
+	<classpathentry kind="lib" path="/Users/shrinkhla/Desktop/springdata_jars/spring-context-3.2.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/Users/shrinkhla/Desktop/springdata_jars/spring-data-jpa-1.4.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/Users/shrinkhla/Desktop/springdata_jars/spring-orm-3.2.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/Users/shrinkhla/Desktop/springdata_jars/com.springsource.javax.persistence-2.0.0.jar"/>
+	<classpathentry kind="lib" path="/Users/shrinkhla/Desktop/springdata_jars/spring-data-jpa-1.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/Users/shrinkhla/Desktop/springdata_jars/spring-data-commons-1.5.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/Users/shrinkhla/Desktop/springdata_jars/dozer-5.2.1.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
